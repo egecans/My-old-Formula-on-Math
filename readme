@@ -1,0 +1,23 @@
+AIM: 
+The aim of this formula is to find a number that is added to the existed fraction to get the requested fraction without creating equations.
+
+When does that happen?  
+1-When the existed fraction's numerator and denominator are higher than the requested's.
+2-When the fractions are simple.
+
+How?
+First, you should divide the existed fraction into the requested fraction without simplification. 
+Then you should subtract this result from 1.
+The numerator of this result is your answer!
+
+A simple example:
+Which number makes the 6/8 equivalent to the 5/6 when it's added to the 6/8's both the numerator and denominator?
+
+Solution:
+6/8 / 5/6 = 36/40
+1- 36/40 = 4/40
+then the answer is 4.
+
+Check:
+6+4/8+4 = 10/12 = 5/6  then the answer is correct!
+
